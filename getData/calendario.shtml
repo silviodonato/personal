@@ -1,0 +1,6348 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!-- ********************************************************* -->
+<!-- SKELETON DI PAGINA CMSSPORT - Giugno 2009 - Luglio 2011   -->
+<!-- Elenco Interventi:		           			-->
+<!--   03/06/2011: Paolo Mosca - creazione template		-->
+<!--   06/06/2011: Samuele Carminati - validazione template 	-->
+<!-- ********************************************************* -->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it">
+<head>	
+
+   	 
+	  
+		
+	                           
+	
+		
+		
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+ 
+	                          
+ 	
+	
+	<!-- generato da /ssi/2008/dyn/head/calcio.shtml -->
+	<!-- generato da /ssi/dyn/head/default.shtml -->	
+	<!--  SET PATHS  PRO -->
+
+
+
+
+
+
+<!--  LOAD CAPTIONS  -->
+<!-- CHARSET -->
+
+
+<!-- CAPTIONS -->
+
+
+
+
+
+
+
+
+<!-- HOME -->
+
+
+<!-- CALCIO -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- MOTORI -->
+
+
+
+
+
+
+<!-- CICLISMO -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- GIRO D'ITALIA -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- BASKET -->
+
+
+
+
+
+
+
+
+
+<!-- ALTRI SPORT -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- MAGIC CUP -->
+
+
+
+
+
+
+
+
+<!-- GAZZETTATV -->
+
+
+<!-- SPORTWEEK -->
+
+
+<!-- BLOG -->
+
+
+<!-- GAZZASPACE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- MAGIC -->
+
+
+<!-- GIOCHI_SCOMMESSE -->
+
+
+<!-- RICERCA -->
+
+
+
+
+
+
+
+
+<!-- META DESCRIPTION -->
+
+	
+	
+
+
+
+
+
+
+<!--  DEBUG MODE  -->
+
+	
+
+
+<!--  DEBUG MODE a 1 forzato per inserire i css singolarmente  -->
+
+
+
+<!--  SET DEFAULTS (SEZIONE, SOTTOSEZIONE, TIPOLOGIA)  -->
+
+	<!-- Sezione: calcio -->
+
+
+
+	<!-- Sottosezione: seriea -->
+
+
+
+	<!-- Tipologia: risultati -->
+
+
+<!-- test per sondaggi -->
+<!-- PAGINA: calendario.shtml -->
+
+<!-- Variabile per controllare se il global.config Ã¨ giÃ  stato caricato -->
+
+
+
+	<!-- META -->
+		<!-- generato da /ssi/dyn/head/common_meta.shtml -->
+	<meta http-equiv="Content-Type" content="text/html; ISO-8859-1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+	
+
+   		
+    
+    
+
+	
+	
+	
+
+    
+
+    <link rel="shortcut icon" href="http://images2.gazzettaobjects.it/libs/css/default_theme/assets/favicon.ico?v=201010131107" />
+
+    
+
+
+
+	<!-- [if IE 6]>
+		<script type="text/javascript">
+			// IE6 background image fix => http://www.mister-pixel.com/index.php?Content__state=is_that_simple
+			try {
+				document.execCommand("BackgroundImageCache", false, true);
+			} catch(err) {}
+		</script>
+	<![endif] -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+	
+		
+<link rel="canonical" href="http://www.gazzetta.it/speciali/risultati_classifiche/2010/calcio/seriea/calendario.shtml" />
+		
+	
+ 
+
+
+<!-- fine generato da /ssi/dyn/head/common_meta.shtml -->
+
+	<!-- JS -->
+		<!-- generato da /ssi/dyn/head/common_js_top.shtml -->
+ 
+
+
+<script type="text/javascript">
+</script>
+
+  
+
+
+<script src="http://js2.gazzettaobjects.it/libs/js/jquery/jquery-1.3.2.min.js?v=20090423184833" type="text/javascript"></script>
+
+
+
+
+
+
+<script language="javascript" type="text/javascript">
+
+var perPath = '/ssi/2008/boxes/calcio/calendari/calendario_';
+var postPath = '.shtml';
+function stampaCal(url){
+	url = url.replace('estero-','');
+	window.open(perPath+url+postPath, "calWind",
+	"toolbar=no,left=1,top=1,height=700,directories=no,location=no,status=no,statusbar=no,resizable=1,menubar=no,scrollbars=yes");
+}
+</script>
+
+
+
+
+
+
+		<script type="text/javascript">
+		//variabile utilizzata nel meteo.js
+		var pathImgMeteo = 'http://images2.gazzettaobjects.it/libs4/css/assets';
+		//utilizzata per il menu di sportweek
+		var selected = 'risultati';
+		
+		//ADV function
+			function getSite() {
+				return "gazzetta";
+			};
+		
+		var temporeale_xml = "(none)";
+
+		//CONTROLLO USERAGENT IPAD PER GESTIRE GLI ELEMENTI NON GESTITI
+		var browser_user_ag = "";
+		var useragent_check = navigator.userAgent;
+		if(useragent_check.indexOf('iPad') > -1) browser_user_ag = "iPad";
+
+		function popUpGallery_rel(url,type,strWidth,strHeight){
+			var tools="";
+			tools="resizable=0,toolbar=no,location=no,scrollbars=no,width="+strWidth+",height="+strHeight+",left=0,top=0";
+			nuova_finestra=window.open(url,'fotogallery',tools);
+			nuova_finestra.focus();
+		}
+
+		function openPopup_rel(element){
+
+			var hr = $(element).attr("href");
+
+			if(hr.indexOf("apri_popup_methode_mailto")==-1){
+
+				if(($(element).attr("href")).indexOf("vuoto.shtml")>-1) {
+					w = "750";
+					h = "565";
+				}
+				else {
+					if($.browser.msie && $.browser.version < 7){
+						w = "600";
+						h = "770";
+					}
+					else {
+						w = "600";
+						h = "750";
+					}
+				}
+				popUpGallery_rel($(element).attr("href"),t,w,h);
+			}
+			return false;
+		}
+
+		Date.monthNames = ['mese','Gen', 'Feb', 'Mar', 'Apr', 'Mag', 'Giu', 'Lug', 'Ago', 'Set', 'Ott', 'Nov', 'Dic'];
+		Date.dayNames = ['Dom', 'Lun', 'Mar', 'Mer', 'Gio', 'Ven', 'Sab'];
+		Date.dayNamesLong = ['Domenica', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato'];
+		var server_date = '09-23-17-38-6-13-15-2017-55';
+		var server_date_split = server_date.split('-');
+
+		//MESE
+		var server_m = (server_date_split[0]/1);
+		var server_m_mm = server_date_split[0];
+		//MESE TESTO
+		var server_m_text = Date.monthNames[server_m];
+
+		//GIORNO
+		var server_d = (server_date_split[1]/1);
+		var server_d_dd = server_date_split[1];
+		//GIORNO TESTO
+		var server_day_t = Date.dayNames[server_date_split[4]];
+		var server_day_tt = Date.dayNamesLong[server_date_split[4]];
+
+		//ANNO
+		var server_y = server_date_split[2];
+		var server_yyyy = server_date_split[7];
+
+		//SETTIMANA
+		var server_W = (server_date_split[3]/1)+1;
+
+		if (server_W > 52) {
+			var server_W = 1;
+		}
+
+		//NUMERO GIORNO SETTIMANA
+		var server_day_of_week = server_date_split[4]/1;
+		//SECONDI
+		var server_secondi = server_date_split[8];
+		//MINUTI
+		var server_minute = server_date_split[5]/1;
+		var server_minute_mm = server_date_split[5];
+		//ORA
+		var server_hour = server_date_split[6]/1;
+		var server_hour_hh = server_date_split[6];
+		</script>
+		<script type="text/javascript">
+		function pickRandom(range) {
+			if (Math.random) return Math.round(Math.random() * (range-1));
+			else {
+				var now = new Date();
+				return (now.getTime() / 1000) % range;
+			}
+		}
+		</script>
+
+		<!-- vedi http://www.adobe.com/devnet/activecontent/articles/devletter.html -->
+
+		<!-- ATTENZIONE NON TOGLIERE IL TIMEFMT QUI SOTTO!!!! -->
+		
+
+<!-- generato da: /ssi/2008/adv/calcio/positions.shtml -->
+
+  <!-- SCRIPT BT  -->
+  
+  	<script type="text/javascript"><!--
+	///////////////// BT - Start /////////////////
+	OAS_taxonomy = '';
+	var pageUrlPath = window.location.href.replace(window.location.protocol + "//", "");
+
+	pageUrlPath = pageUrlPath.replace(/%2F/g,"/");
+
+	pageUrlPath = pageUrlPath.replace(/%3F/g,"/");
+	pageUrlPath = pageUrlPath.replace(/\?/g,"/");
+
+	pageUrlPath = pageUrlPath.replace(/%21/g,"_");
+	pageUrlPath = pageUrlPath.replace(/!/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%2A/g,"_");
+	pageUrlPath = pageUrlPath.replace(/\*/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%22/g,"_");
+	pageUrlPath = pageUrlPath.replace(/\"/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%27/g,"_");
+	pageUrlPath = pageUrlPath.replace(/'/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%28/g,"_");
+	pageUrlPath = pageUrlPath.replace(/\(/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%29/g,"_");
+	pageUrlPath = pageUrlPath.replace(/\)/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%3B/g,"_");
+	pageUrlPath = pageUrlPath.replace(/;/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%3A/g,"_");
+	pageUrlPath = pageUrlPath.replace(/\:/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%40/g,"_");
+	pageUrlPath = pageUrlPath.replace(/@/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%26/g,"_");
+	pageUrlPath = pageUrlPath.replace(/&/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%3D/g,"_");
+	pageUrlPath = pageUrlPath.replace(/=/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%2B/g,"_");
+	pageUrlPath = pageUrlPath.replace(/\+/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%24/g,"_");
+	pageUrlPath = pageUrlPath.replace(/\$/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%2C/g,"_");
+	pageUrlPath = pageUrlPath.replace(/,/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%23/g,"_");
+	pageUrlPath = pageUrlPath.replace(/#/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%5B/g,"_");
+	pageUrlPath = pageUrlPath.replace(/\[/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%5D/g,"_");
+	pageUrlPath = pageUrlPath.replace(/\]/g,"_");
+
+	pageUrlPath = pageUrlPath.replace(/%20/g,"_");
+	pageUrlPath = pageUrlPath.replace(/ /g,"_");
+
+	//Tenere la sostituzione del % come ultima istruzione
+	pageUrlPath = pageUrlPath.replace(/%25/g,"_");
+	pageUrlPath = pageUrlPath.replace(/\%/g,"_");
+
+	//
+	// Per disabilitare BT commentare la riga sottostante
+	//
+	
+
+	--></script>
+
+  		
+  <!-- FINE SCRIPT BT  -->
+
+	<script type="text/javascript">
+
+		// definizione variabili pagina e posizioni
+
+		
+			OAS_sitepage = 'gazzetta.it/calcio';
+			OAS_listpos = 'Top,TopLeft,Frame1,Position1';
+		
+
+  //end OAS Analytics
+
+	</script>
+
+<!-- fine generato da: /ssi/2008/adv/calcio/positions.shtml -->
+
+	
+			<script type="text/javascript">
+				var CookiePolicyAccepted = false;	
+
+					var _ricIsPresent = Boolean(document.cookie.match(/(?:^|;)\s?__ric=(.*?)(?:;|$)/));
+					var _cpmt_xaValue = document.cookie.match(/(?:^|;)\s?cpmt_xa=(.*?)(?:;|$)/);
+					var _cpmt_xaIsPresent = Boolean(_cpmt_xaValue && (_cpmt_xaValue[1].indexOf("5295") > -1));
+					CookiePolicyAccepted = !navigator.cookieEnabled || _ricIsPresent || _cpmt_xaIsPresent;
+
+
+                var _scriptSrc = "http://js.gazzettaobjects.it/includes2013/LIBS/js/mjx.js";
+                var _mockScript = "http://js.gazzettaobjects.it/includes2013/LIBS/js/MJX_OFF/mjx.js";
+            
+                if(typeof CookiePolicyAccepted == "boolean" && CookiePolicyAccepted){
+                    document.write('<scr'+'ipt type="text/javascript" src="' + _scriptSrc + '"></sc'+'ript>');
+                } else {
+                    document.write('<scr'+'ipt type="text/javascript" src="' + _mockScript + '"></sc'+'ript>');
+                }
+            </script>
+	
+
+
+<script type="text/javascript" src="http://js2.gazzettaobjects.it/libs/js/AC_RunActiveContent.js?v=200905071108"></script>
+
+<script language="javascript" type="text/javascript">
+function createEmbed(clipId, channelId, siteId)
+{
+  //console.log("clipId:"+clipId+", channelId: "+channelId+ ", siteId: "+siteId);
+
+
+	var clsId = "clsid:D27CDB6E-AE6D-11cf-96B8-444553540000";
+	var cdBase = "http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0";
+	var pId = "vxFlashPlayer4139";
+	var width = "300";
+	var height = "250";
+	var movieParam = "http://publish.vx.roo.com/rcsgazzetta/mini/flashembed/";
+	var allowScriptAccessParam = "always";
+	var allowFullscreenParam = "true";
+	var movieQuality = "high";
+	var wmodeParam = "windowed";
+
+	var scaleParam = "noScale";
+	var embedType = "application/x-shockwave-flash";
+	var embedSrc = "http://publish.vx.roo.com/rcsgazzetta/mini/flashembed/";
+
+	var flashvarsParam = "vxBaseURL=http%3A//publish.vx.roo.com/rcsgazzetta/mini/&vxTemplate=http%3A//publish.vx.roo.com/rcsgazzetta/mini/Gazzetta_Miniplayer_Article.swf&vxEmbedMode=fullsize&vxSiteId="+siteId+"&vxChannel="+channelId+"&vxSearch=&vxClipId="+clipId+"&vxBitrate=&vxFormat=&vxServerBase=&vxIMU=&vxClickToPlay=&vxTint=&vxFullscreen=imuCompatibility&vxSecure=false&vxBD=&vxHBX=&vxExternalIMU=&vxRowCount=&vxStartMode=normal&vxCore=&vxPreviewId=&vxDebug=&vxFilmStrip=&vxDynChannel=&vxHBXClipIdVar=&vxHBXClientType=Flash Player&vxOriginChannel=";
+
+  document.write('<object classid="'+clsId+'" codebase="'+cdBase+'" id="'+pId+'" width="'+width+'" height="'+height+'"><param name="movie" value="'+movieParam+'" /><param name="allowScriptAccess" value="'+allowScriptAccessParam+'" /><param name="allowFullscreen" value="'+allowFullscreenParam+'" /><param name="quality" value="'+movieQuality+'" /><param name="scale" value="'+scaleParam+'" /><param name="wmode" value="'+wmodeParam+'" /><param name="flashvars" value="'+flashvarsParam+'"/><embed type="'+embedType+'" src="'+embedSrc+'" width="'+width+'" height="'+height+'" allowScriptAccess="'+allowScriptAccessParam+'" allowFullscreen="'+allowFullscreenParam+'" quality="'+movieQuality+'" scale="'+scaleParam+'" wmode="'+wmodeParam+'" flashvars="'+flashvarsParam+'"></embed></object>');
+}
+</script>
+
+<script language="javascript" type="text/javascript">
+
+var disciplinaSelected;
+var currentDateCms;
+
+function CambiaDisciplina(disciplinaSelected) {
+	$('.disciplina .selected, .scegli_disciplina .selected').removeClass('selected');
+	$('.disciplina #' +disciplinaSelected).addClass('selected');
+	$('.scegli_disciplina #' +disciplinaSelected).addClass('selected');
+}
+function CambiaData(currentDateCms) {
+	$('.date .selected').removeClass('selected');
+	$('.date .' +currentDate).addClass('selected');
+
+}
+</script>
+
+
+
+
+<!-- JS DELLA TV NECESSARI AGLI ARTICLE PLAYER -->
+	<script type="text/javascript" src="http://js.gazzettaobjects.it/widget/js/js_utilities.js?v=201310010956"></script>
+	<script type="text/javascript" src="http://js.gazzettaobjects.it/widget/js/classes.js?v=201107070948"></script>
+	<script type="text/javascript" src="http://js.gazzettaobjects.it/widget/js/voting.js?v=201107070948"></script>
+	<script type="text/javascript" src="http://js.gazzettaobjects.it/widget/js/FEED_CHANNEL.js?v=201605101221"></script>
+	<script type="text/javascript" src="http://js.gazzettaobjects.it/widget/js/TEMPLATE_MAPPING.js?v=201607061431"></script>
+	<script type="text/javascript" src="http://js.gazzettaobjects.it/widget/js/polymediaPlayerGazzetta.js?v=201504071035"></script>
+<!-- JS DELLA TV NECESSARI AGLI ARTICLE PLAYER -->
+
+
+<!-- script necessario per caricare le fotogallery-->
+    
+<!-- fine --> 
+
+
+
+
+<script type='text/javascript'><!--// <![CDATA[
+var OA_zones = {
+	'GAZbac01' : 220,
+	'GAZbac02' : 221,
+	'GAZbac03' : 222,
+	'GAZbac04' : 223,
+	'GAZbac05' : 224,
+	'GAZbac06' : 225,
+	'GAZbac07' : 226,
+	'GAZbac08' : 227,
+	'GAZbac09' : 228,
+	'GAZbac10' : 229,
+	'1bacmkt1': 365,
+	'1bacmkt2': 366,
+	'1bacmkt3': 367,
+	'1bacmkt4': 368,
+	'consigli1' : 380,
+	'consigli2' : 381,
+	'consigli3' : 382,
+	'consigli4' : 383,
+	'consigli5' : 384,
+	'BoxPromoCALCIOGAZ01top' : 464,
+	'BoxPromoCALCIOGAZ02bot' : 465,
+	'Multibarmkt1' : 639,
+	'MultibarDiretta1' : 640,
+	'MultibarWidgetGoal':689 
+
+};
+// ]]> --></script>
+<script type="text/javascript" src="http://ads.rcs.it/www/delivery/spcjs.php?id=25&amp;block=1&amp;sezione=calcio&amp;sottosezione=seriea&amp;squadra=(none)&amp;tipologia=risultati"></script>
+
+
+
+
+	<script src='http://js2.gazzettaobjects.it/libs4/js/plugin/jquery.cookie.js' type='text/javascript'></script>
+
+
+<script type="text/javascript" src="http://static2.advtools.rcsobjects.it/openx/gazzetta/openx_async.js"></script>
+
+<!-- fine generato da /ssi/dyn/head/common_js_top.shtml -->
+
+
+	<!-- CSS -->
+		<!-- generato da: /ssi/dyn/head/common_css.shtml -->
+<!-- variabile css no AKAMAI CSS_PACKAGE_URL_NO_AKAMAI -->
+
+
+<link media="all" type="text/css" href="http://css2.gazzettaobjects.it/libs/css/default_theme/reset.css?v=200911101340" rel="stylesheet" />
+<link media="screen, projection" type="text/css" href="http://css2.gazzettaobjects.it/libs/css/default_theme/header.css?v=201609231307" rel="stylesheet" />
+<link media="screen, projection" type="text/css" href="http://css2.gazzettaobjects.it/libs/css/default_theme/main.css?v=201203091730" rel="stylesheet" />
+<link media="screen, projection" type="text/css" href="http://css2.gazzettaobjects.it/libs/css/default_theme/rightcol.css?v=201109211751" rel="stylesheet" />
+<link media="screen, projection" type="text/css" href="http://css2.gazzettaobjects.it/libs/css/default_theme/footer.css?v=201101311443" rel="stylesheet" />
+<link media="print" type="text/css" href="http://css2.gazzettaobjects.it/libs/css/default_theme/print_all.css?v=201103170009" rel="stylesheet" />
+<link media="all" type="text/css" href="http://css2.gazzettaobjects.it/libs/css/default_theme/tv.css?v=201106291718" rel="stylesheet" />
+
+<link media="all" type="text/css" href="/widget/css/search.css?v=201102250916" rel="stylesheet" />
+
+
+
+<link media="screen, projection" type="text/css" href="http://css2.gazzettaobjects.it/libs/css/default_theme/risandclass.css?v=201104201059" rel="stylesheet" />
+<link media="screen, projection" type="text/css" href="http://css2.gazzettaobjects.it/libs/css/default_theme/cms_2010.css?v=201010131107" rel="stylesheet" />
+<link media="screen, projection" type="text/css" href="http://css2.gazzettaobjects.it/libs/css/default_theme/datepicker_gaz.css?v=201010131110" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+
+
+<link media="screen, projection" type="text/css" href="http://css2.gazzettaobjects.it/libs/css/default_theme/stepcarousel_altri.css?v=201010151000" rel="stylesheet" />
+<link media="screen, projection" type="text/css" href="http://css2.gazzettaobjects.it/libs/css/default_theme/stepcarousel_calcio.css?v=201010141438" rel="stylesheet" />
+
+
+<!--04.08.2011: Css per fare zoom delle immagine negli articoli-->
+<link media="screen, projection" type="text/css" href="http://css2.gazzettaobjects.it/libs/css/default_theme/zoom/lightbox.css?v=201108041545" rel="stylesheet" />
+<!-- plugin thickbox per login e risposta dilatua -->
+<!-- css per thickbox dilatua-->
+<link media="screen, projection" type="text/css" href="http://css2.gazzettaobjects.it/libs4/css/zoom/thickbox.css?v=201302191119" rel="stylesheet" />
+
+
+<!--05.08.2011:modifica per implementare audio e video negli articoli come in gazzetta4-->
+<link href="http://css2.gazzettaobjects.it/libs4/css/gazzettatv.css?v=201311221555" media="all" rel="stylesheet" type="text/css" />
+
+
+<link media="screen, projection" type="text/css" href="http://css2.gazzettaobjects.it/libs4/css/multifunctionBar_new.css?v=201310081202" rel="stylesheet" /> 
+
+<link href="/libs/js/plugins/jquery.guillotine.css" rel="stylesheet" type="text/css"/>
+<!-- fine generato da: /ssi/dyn/head/common_css.shtml -->
+		
+			<link media="screen, projection" type="text/css" href="http://css2.gazzettaobjects.it/libs/css/default_theme/calcio.css?v=20110615122448" rel="stylesheet" />
+		
+			
+			
+			<link media="screen, projection" type="text/css" href="http://css2.gazzettaobjects.it/libs/css/default_theme/(none).css?v=<!-- [an error occurred while processing this directive]  -->" rel="stylesheet" />
+			
+		
+		
+		
+    	
+<!-- fine generato da /ssi/dyn/head/default.shtml -->
+	
+	
+	
+	
+	
+	
+		<!-- generato da /ssi/dyn/head/css_patch.shtml -->
+	
+	
+		
+	
+	
+		
+			<!--[if IE 6]>
+				<link href="http://css2.gazzettaobjects.it/libs/css/default_theme/patch/ie6_patch.css?v=201104041428" media="screen,projection" rel="stylesheet" type="text/css" />
+				<link href="http://css2.gazzettaobjects.it/libs/css/default_theme/patch/print-ie6_patch.css?v=200911101340" rel="stylesheet" type="text/css" media="print" />
+			<![endif]-->
+
+			<!--[if IE 7]>
+				<link href="http://css.gazzettaobjects.it/libs/css/default_theme/patch/ie7_patch.css?v=201104201019" rel="stylesheet" type="text/css" media="screen,projection" />
+			<![endif]-->
+	
+			
+	
+			
+	
+			<style type="text/css" media="all">
+				
+			</style>
+	
+	
+	
+		
+	
+	<!-- fine generato da /ssi/dyn/head/css_patch.shtml -->
+<!-- fine generato da /ssi/2008/dyn/head/calcio.shtml -->
+
+	
+	<title>Risultati e Classifiche - Calcio - Serie A - La Gazzetta dello Sport</title>
+	
+</head>
+
+<body id="calcio" class="sub-seriea type-risultati squadra-(none) evento-(none)">
+
+    
+        
+            
+<!-- OAS AD '1x1'begin. -->
+
+<script type="text/javascript">
+<!--
+OAS_AD('Position1');
+//-->
+</script>
+<!-- OAS AD '1x1' end -->
+
+
+        
+    
+
+
+	
+	
+
+     
+
+    <div id="wrapper">
+    
+      	<div id="header">
+
+<!-- LINK LATERALI -->
+        <a title="mobile&reader" href="http://www.gazzetta.it/mobilereader/ipad/" class="menu-mobile menu-left">mobile</a>
+        <a title="gazzatown" href="http://gazzatown.gazzetta.it/?fr=menutop&utm_source=Gazzetta_navbar&utm_medium=Gazzetta_navbar&utm_campaign=Gazzetta_navbar" class="menu-town menu-left">gazzatown</a>                
+        <a title="sportlinx" href="http://gazzaspace.gazzetta.it/teampages/latest" class="menu-linx menu-left">sportlinx</a>	
+        <a title="forum" href="http://web.community.gazzetta.it/forum/" class="menu-forum menu-left">forum</a>	
+    <!-- FINE LINK LATERALI -->	
+
+<!-- inizio header -->
+
+	<!--include virtual="/ssi/2008/adv/shared/leaderboard.shtml"-->
+    
+
+<div class="infospace">
+  <span style="color: #090;display:block;font-size:16px;font-weight:bold;">GAZZAGAME</span>
+  <a href="http://giochi.gazzetta.it/" style="font-size: 12px; font-weight: normal;">I migliori giochi online, gratis!<br /><b>GIOCA SUBITO &raquo;</b></a><br />
+  </div>
+
+
+
+
+
+
+<div class="header-container clearfix">
+
+
+
+
+<h2 id="logo"><a href="http://www.gazzetta.it/">La Gazzetta dello Sport.it</a></h2>
+
+                <div id="news-head-container">
+                    <ul id="newsnavi">
+                        <li class="date"><script type="text/javascript">document.write(server_day_t+" "+server_d_dd+" "+server_m_text+" "+server_yyyy+", "+server_hour_hh+":"+server_minute_mm);</script></li>
+                        <li><a href="http://www.gazzetta.it/rss/?fr=ultimora" class="rss">RSS</a></li>
+                        <li class="all-news">| <a href="http://www.gazzetta.it/notizie-ultima-ora/index.shtml">VEDI TUTTE</a></li>
+                    </ul>
+                    <!--  SET XML ULTIMORA  -->
+
+	
+
+<div id="newsticker_container">
+    <ul id="newsticker" name="notiziegazzettacalcio.xml">
+    
+    </ul>
+</div>
+                </div>
+
+
+
+
+			<div id="meteobox">
+
+                <span id="meteo" class="left"><img id="wheather" src="http://images2.gazzettaobjects.it/libs/css/default_theme/assets/trasp.gif?v=20101013110754"/></span>
+
+                <div class="left meteo-text">
+
+                    <h3 id="localita" class="meteo-headline"></h3>
+
+                    Temperatura <span id="temperatura"></span> | Umidit&agrave; <span id="umidita"></span>
+
+                </div>
+
+                <a href="/meteo/index.html" class="meteo-change" id="meteolink" rel="meteolayer">Cambia localit&agrave;</a>
+
+            </div>
+
+
+
+<div id="meteolayer" class="hidden">
+
+	<div class="meteo-select-container">
+
+	<select size="9" name="localita" id="select-localita">	
+	
+	  <option value="bari">Bari</option>
+
+		<option value="belluno">Belluno</option>
+
+		<option value="bergamo">Bergamo</option>
+
+		<option value="bologna">Bologna</option>
+
+		<option value="cagliari">Cagliari</option>
+
+		<option value="catania">Catania</option>
+        
+        <option value="catanzaro">Catanzaro</option>
+
+		<option value="firenze">Firenze</option>
+
+		<option value="genova">Genova</option>
+
+		<option value="lecce">Lecce</option>
+		
+		<option value="livorno">Livorno</option>
+
+		<option value="milano">Milano</option>
+
+		<option value="napoli">Napoli</option>
+
+		<option value="padova">Padova</option>
+
+		<option value="palermo">Palermo</option>
+		
+		<option value="parma">Parma</option>
+
+		<option value="reggio calabria">Reggio Calabria</option>
+
+		<option value="roma">Roma</option>
+
+		<option value="rovigo">Rovigo</option>
+
+		<option value="siena">Siena</option>
+
+		<option value="torino">Torino</option>
+
+		<option value="treviso">Treviso</option>
+
+		<option value="udine">Udine</option>
+
+		<option value="verona">Verona</option>
+
+		<option value="vicenza">Vicenza</option>
+
+	</select>
+
+	</div>
+
+	<a class="button-bold bt-green" id="meteotrigger">Conferma cambio localit&agrave;</a>
+
+</div>
+
+<ul id="mainnavi" class="clear clearfix">
+	<li><a href="http://www.gazzetta.it/" >Home</a></li>
+	<li><a href="http://www.gazzetta.it/Calcio/"  class="active">Calcio</a></li>
+		<li><a href="http://www.gazzetta.it/Calcio/Calciomercato/" >Calciomercato</a></li>
+	<li><a class="orangeET" href="http://www.gazzetta.it/Calcio/Estero/" >ET-Calcio estero</a></li>					<li><a href="http://www.gazzetta.it/Motori/" >Motori</a></li>
+
+<!--    GIRO D'ITALIA 2011 -->
+
+<!--	<li><a target = "_blank" href="http://www.gazzetta.it/Speciali/Giroditalia/2011/it/" >Giro d'Italia</a></li>-->
+
+	<li><a href="http://www.gazzetta.it/Ciclismo/tourdefrance/" >Tour</a></li>
+	<li><a href="http://www.gazzetta.it/Sport_Vari/Basket/" >Basket</a></li>
+	 <!--  qui il tennis -->
+   <li><a href="http://www.gazzetta.it/Sport_Vari/Tennis/" >Tennis</a></li>
+	<li><a href="http://www.gazzetta.it/Sport_Vari/ ">Altri Sport</a></li>
+	<li><a href="http://video.gazzetta.it/" >GazzettaTV</a></li>
+	<li><a href="http://www.gazzetta.it/blog" >Blog</a></li>
+	<li><a href="http://gazzaspace.gazzetta.it/"   class="addon"
+		>GazzaSpace</a></li>
+		<li><a href="http://www.gazzetta.it/Magic_Cup/"  class="addon"
+			>Magic</a></li>
+			<li><a href="http://www.gazzetta.it/quote/"  class="addon"
+				>Scommesse</a></li>
+				<li><a href="http://giochi.gazzetta.it/"  class="addon"
+					>Gazzagame</a></li>
+				</ul>
+				
+				
+				<ul id="subnavi" class="clear clearfix pink-menu">
+	<li><a href="http://www.gazzetta.it/Calcio/" class="first">Home</a></li>
+	<li><a href="http://www.gazzetta.it/tr_xml_sics/index.html">Tempo reale</a></li>
+	<li><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/seriea/index.shtml">Serie A</a></li>   
+	<li><a href="http://www.gazzetta.it/Speciali/Calcio/Nazionale/">Nazionale</a></li>       
+	<li><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/serieb/index.shtml">Serie B</a></li>
+	<li><a href="http://www.gazzetta.it/Calcio/Calciomercato/">Calciomercato</a></li>
+	<li><a href="http://www.gazzetta.it/Calcio/Estero/">Calcio Estero</a></li>
+	<li><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/champions/finale.shtml">Champions League</a></li>
+	<li><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/europaleague/finale.shtml">Europa League</a></li>
+	<!-- <li><a href="<echo var="WEB_ROOT">/Calcio/Giovani/">Giovani & Dilettanti</a></li> -->
+	</ul>
+
+
+
+
+				
+
+				<!-- generato da /ssi/2008/adv/calcio/pushbar.shtml -->
+
+  <div class="bannertotal check-oas" style="text-align:center;">
+
+  <!-- .OAS AD '940x60'begin -->
+
+  <script type="text/javascript">
+  <!--
+  OAS_AD('TopLeft');
+  //-->
+  </script>
+
+  <!-- OAS AD '940x60' end -->
+  </div>
+
+
+<!-- fine generato da /ssi/2008/adv/calcio/pushbar.shtml -->
+
+
+				
+
+				<!-- generato da: /ssi/2008/boxes/shared/login-registrati.shtml -->
+
+<form class="input-green left base in-text" method="post" action="http://gazzaspace.gazzetta.it/user/login">
+</form>
+<a class="registrati_link" href="http://gazzaspace.gazzetta.it/signup">Registrati</a>
+<form name="cerca" action="javascript:cercaNelSito();" method="post" class="input-gray left base in-text">
+	<input name="q" class="select longfield" value="" size="10" maxlength="100" id="search_val" title="Cerca in Gazzetta">
+	<a href="http://www.gazzetta.it/" class="button-bold bt-pink submit_form">Cerca</a>
+
+</form>
+
+
+<form name="siteSearch1" method="post" action="http://sitesearch.gazzetta.it/sitesearch/searchresults.jsp" target="_parent">
+	<input type="hidden" name="xslUrl" value="http://www.gazzetta.it/ar/templateAdsGazzetta.xsl">
+	<input type="hidden" name="adsEnvironment" value="corriere">
+	<input type="hidden" name="channel_par" value="gazzetta">
+	<input type="hidden" name="num_par" SIZE="3" value="0">
+	<input type="hidden" name="ricerca_par" value=""/>
+	<input type="hidden" name="numss_par" SIZE="3" value="10">
+	<input type="hidden" name="offsetss_par" value="0"><!--da aggiornare -->
+	<input type="hidden" name="ordss_par" value="DATA">   <!--da aggiornare -->
+	<input type="hidden" name="numas_par" value="3">
+	<input type="hidden" name="offsetas_par" value="0">
+	<input type="hidden" name="ordas_par" value="DATA">
+	<input type="hidden" name="ordasdir_par" value="DESC">
+	<input type="hidden" name="ad_par" value="w6n3">
+	<input type="hidden" name="adpage" value="1">      <!--da aggiornare -->
+	<input type="hidden" name="hl_par" value="it">
+</form>
+
+
+
+<div id="social_strip" class="clearfix">
+	<ul>
+		<li><a href="http://english.gazzetta.it" id="link_eng" title="English Version"></a></li>
+		<li><a href="http://archiviostorico.gazzetta.it" id="link_archive"></a></li>
+		<li><a href="http://edicola.corriere.it/" id="link_edicola" title="Gazzetta da sfogliare"></a></li>
+		<li><a href="http://www.gazzetta.it/mobile/gazzetta-mobile.shtml" id="link_mobile" title="Gazzetta mobile"></a></li>
+		<li><a href="http://www.gazzetta.it/mobilereader/ipad/" id="link_ipad"></a></li>
+		<li><a href="http://www.facebook.com/LaGazzettaDelloSport" id="link_fb" title="Segui Gazzetta.it su Facebook"></a></li>
+		<li><a href="http://twitter.com/Gazzetta_it" id="link_tw" title="Segui Gazzetta.it su Twitter"></a></li>
+	</ul>
+</div> 
+
+
+<!-- fine generato da: /ssi/2008/boxes/shared/login-registrati.shtml -->
+			</div>
+			<!-- fine header -->
+		</div>
+
+
+		
+		  
+
+				
+
+				
+
+				
+
+				
+
+		
+
+		
+		
+		
+			
+				
+		
+		
+		<script src="http://js2.gazzettaobjects.it/libs/js/plugins/stepcarousel.js?v=20101203170446" type="text/javascript"></script>
+
+
+<!--include in common js bottom--> 
+<script src="http://js2.gazzettaobjects.it/libs/js/risa_header.js?v=20110103130415" type="text/javascript"></script>
+
+<script type="text/javascript"> 
+// Settaggi per stepCarousel
+stepcarousel.setup({
+	galleryid: 'mygallery', //id of carousel DIV
+	containerid: 'content_menu_eng', //id che contiene il galleryid
+	beltclass: 'belt', //class of inner "belt" DIV containing all the panel DIVs
+	panelclass: 'panel', //class of panel DIVs each holding content
+	autostep: {enable:false, moveby:1, pause:3000},
+	panelbehavior: {speed:200, wraparound:false, wrapbehavior:'slide', persist:false},
+	defaultbuttons: {enable: true, moveby: 4, leftnav: ['http://www.gazzetta.it/libs/css/default_theme/assets/cms_barMenu/sxn_arrow.png', 166, 6], rightnav: ['http://www.gazzetta.it/libs/css/default_theme/assets/cms_barMenu/dxn_arrow.png', 190, 6]},
+	statusvars: ['statusA', 'statusB', 'statusC'], //register 3 variables that contain current panel (start), current panel (last), and total panels
+	contenttype: ['inline'], //content setting ['inline'] or ['ajax', 'path_to_external_file']
+	oninit:function(){
+			var posTab = queryString("pos");
+			if (posTab == false) {
+				posTab = 1;
+			}
+			stepcarousel.stepTo("mygallery", posTab);
+			posTab = posTab-1;
+			$(".belt li:eq("+posTab+")").find('a').addClass('active-tab-menu');
+			 $(".belt div:eq("+posTab+")").find('a').addClass('active-tab-menu');
+		 	
+		}
+})
+</script>
+
+<div id="content_menu_eng">
+	<span>RISULTATI E CLASSIFICHE</span>
+	<div id="mygallery" class="stepcarousel">
+
+		<ul class="belt">
+			<li class="seriea panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/seriea/index.shtml">SERIE A</a></li>
+			<li class="serieb panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/serieb/index.shtml">SERIE Bwin</a></li>
+			<li class="chl panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/champions/index.shtml">CHAMPIONS LEAGUE</a></li>
+			<li class="eul panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/europaleague/index.shtml">EUROPA LEAGUE</a></li>
+			<li class="cita panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/coppaitalia/index.shtml">COPPA ITALIA</a></li>
+			<li class="ligas panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/liga/index.shtml">LIGA</a></li>
+			<li class="lig1 panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/ligue1/index.shtml">LIGUE 1</a></li>
+			<li class="bundes panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/bundesliga/index.shtml">BUNDESLIGA</a></li>
+			<li class="premier panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2012/calcio/premierleague/index.shtml">PREMIER LEAGUE</a></li>
+			<li class="g1a panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/serie-c1/gironea/index.shtml">SERIE PRO GIRONE 1 A</a></li>
+			<li class="g1b panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/serie-c1/gironeb/index.shtml">SERIE PRO GIRONE 1 B</a></li>
+			<li class="g2a panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/serie-c2/gironea/index.shtml">SERIE PRO GIRONE 2 A</a></li>
+			<li class="g2b panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/serie-c2/gironeb/index.shtml">SERIE PRO GIRONE 2 B</a></li>
+			<li class="g2c panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/serie-c2/gironec/index.shtml">SERIE PRO GIRONE 2 C</a></li>
+			<li class="sd panel"><a href="http://www.gazzetta.it/speciali/calcio/SerieD/">SERIE D</a></li>
+			<li class="ca5 panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/calcioa5/index.shtml">SOCCER 5</a></li>
+			<li class="sf panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2011/calcio/serieaf/index.shtml">SERIE A FEMMINILE</a></li>	
+			<li class="mls panel"><a href="http://www.gazzetta.it/speciali/risultati_classifiche/2010/sport_usa/mls/index.shtml">MLS</a></li>	
+
+		</ul>
+	</div>
+</div>
+
+
+
+						
+		
+		
+			
+		
+		
+
+		
+
+
+
+
+ 
+    	
+  
+
+	<div id="top-main" class="menu-squadre underline">
+    <a href="/speciali/risultati_classifiche/2010/calcio/seriea/index.shtml" >RISULTATI E CLASSIFICHE</a>
+    <span></span>
+    <a href="/speciali/risultati_classifiche/2010/calcio/seriea/calendario.shtml"  class="active">CALENDARIO</a>
+    <span></span>
+    <a href="/speciali/risultati_classifiche/2010/calcio/seriea/squadre.shtml" >TUTTE LE SQUADRE</a>
+    <span></span>
+    <a href="/speciali/risultati_classifiche/2010/calcio/seriea/albodoro.shtml" >ALBO D'ORO</a>
+</div>
+ 
+   	
+   	
+
+
+	<div id="main" class="left">
+		<div class="bodycontent">
+			<h5 class="seriea">SERIE A 2009/2010 <a href="http://www.gazzetta.it/Calcio/SerieA/Primo_Piano/2009/07/31/CalendarioSerieA.pdf" class="pdf-file right">Scarica e stampa il calendario completo in formato PDF</a></h5>
+<ul class="calendario-lista">
+		<li>
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 1 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		22,
+		23-ago
+</th>
+<th class="ritorno">Ritorno<br />
+		16,17-gen</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529667.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529864.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529668.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529866.shtml" >
+						0-4
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529669.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529860.shtml" >
+						2-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529673.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529859.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529674.shtml" >
+						3-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529858.shtml" >
+						0-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529672.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529865.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529670.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529863.shtml" >
+						0-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529675.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529861.shtml" >
+						0-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529676.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529857.shtml" >
+						0-0
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529671.shtml" >
+						2-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529862.shtml" >
+						0-0
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		
+		
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 2 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		29,
+		30-ago
+</th>
+<th class="ritorno">Ritorno<br />
+		23,24-gen</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529677.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529871.shtml" >
+						1-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529678.shtml" >
+						0-4
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529874.shtml" >
+						0-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529679.shtml" >
+						1-3
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529875.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529686.shtml" >
+						0-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529869.shtml" >
+						0-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529684.shtml" >
+						1-3
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529876.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529683.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529868.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529685.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529873.shtml" >
+						0-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529681.shtml" >
+						3-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529867.shtml" >
+						2-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529682.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529870.shtml" >
+						0-3
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529680.shtml" >
+						3-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529872.shtml" >
+						3-2
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		</li>
+		<li>
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 3 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		12,
+		13-set
+</th>
+<th class="ritorno">Ritorno<br />
+		30,10-feb</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529687.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529883.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529688.shtml" >
+						0-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529884.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529692.shtml" >
+						0-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529880.shtml" >
+						0-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529690.shtml" >
+						0-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529882.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529694.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529885.shtml" >
+						2-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529691.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529877.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529695.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529881.shtml" >
+						2-4
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529693.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529879.shtml" >
+						1-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529689.shtml" >
+						4-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529886.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529696.shtml" >
+						4-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529878.shtml" >
+						0-0
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		
+		
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 4 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		19,
+		20-set
+</th>
+<th class="ritorno">Ritorno<br />
+		06,07-feb</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529697.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529894.shtml" >
+						1-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529698.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529888.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529699.shtml" >
+						4-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529887.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529702.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529891.shtml" >
+						0-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529705.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529889.shtml" >
+						1-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529700.shtml" >
+						3-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529890.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529703.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529893.shtml" >
+						0-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529704.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529895.shtml" >
+						1-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529701.shtml" >
+						4-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529896.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529706.shtml" >
+						3-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529892.shtml" >
+						1-0
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		</li>
+		<li>
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 5 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		23,
+		24-set
+</th>
+<th class="ritorno">Ritorno<br />
+		12,14-feb</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529714.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529902.shtml" >
+						0-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529711.shtml" >
+						0-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529898.shtml" >
+						1-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529715.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529899.shtml" >
+						1-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529713.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529897.shtml" >
+						0-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529712.shtml" >
+						3-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529906.shtml" >
+						0-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529709.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529903.shtml" >
+						2-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529708.shtml" >
+						3-3
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529901.shtml" >
+						1-4
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529710.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529904.shtml" >
+						1-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529707.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529905.shtml" >
+						2-3
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529716.shtml" >
+						2-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529900.shtml" >
+						2-3
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		
+		
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 6 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		26,
+		27-set
+</th>
+<th class="ritorno">Ritorno<br />
+		20,21-feb</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529717.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529914.shtml" >
+						0-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529718.shtml" >
+						0-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529915.shtml" >
+						1-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529722.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529913.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529725.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529916.shtml" >
+						1-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529721.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529907.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529719.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529909.shtml" >
+						1-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529723.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529910.shtml" >
+						0-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529720.shtml" >
+						0-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529908.shtml" >
+						0-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529724.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529911.shtml" >
+						0-3
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529726.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529912.shtml" >
+						2-0
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		</li>
+		<li>
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 7 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		03,
+		04-ott
+</th>
+<th class="ritorno">Ritorno<br />
+		27,28-feb</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529727.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529917.shtml" >
+						0-4
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529728.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529923.shtml" >
+						3-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529729.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529926.shtml" >
+						1-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529734.shtml" >
+						1-3
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529918.shtml" >
+						4-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529731.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529922.shtml" >
+						1-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529735.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529919.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529733.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529924.shtml" >
+						2-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529732.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529920.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529730.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529921.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529736.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529925.shtml" >
+						2-0
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		
+		
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 8 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		17,
+		18-ott
+</th>
+<th class="ritorno">Ritorno<br />
+		06,07-mar</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529737.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529935.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529738.shtml" >
+						0-5
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529934.shtml" >
+						0-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529739.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529929.shtml" >
+						2-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529743.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529931.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529741.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529932.shtml" >
+						1-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529744.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529927.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529742.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529930.shtml" >
+						1-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529740.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529928.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529745.shtml" >
+						1-3
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529936.shtml" >
+						0-0
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529746.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529933.shtml" >
+						0-0
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		</li>
+		<li>
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 9 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		24,
+		25-ott
+</th>
+<th class="ritorno">Ritorno<br />
+		12,14-mar</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529747.shtml" >
+						4-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529937.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529748.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529938.shtml" >
+						1-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529753.shtml" >
+						3-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529944.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529751.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529940.shtml" >
+						2-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529750.shtml" >
+						3-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529939.shtml" >
+						3-5
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529754.shtml" >
+						0-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529941.shtml" >
+						3-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529749.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529943.shtml" >
+						2-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529752.shtml" >
+						0-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529942.shtml" >
+						3-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529755.shtml" >
+						0-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529945.shtml" >
+						3-3
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529756.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529946.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		
+		
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 10 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		28,
+		29-ott
+</th>
+<th class="ritorno">Ritorno<br />
+		20,21-mar</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529757.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529947.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529758.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529956.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529762.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529954.shtml" >
+						0-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529763.shtml" >
+						5-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529950.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529759.shtml" >
+						0-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529948.shtml" >
+						2-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529761.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529953.shtml" >
+						0-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529764.shtml" >
+						2-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529952.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529765.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529949.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529760.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529951.shtml" >
+						2-4
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529766.shtml" >
+						5-3
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529955.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		</li>
+		<li>
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 11 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		31,
+		01-nov
+</th>
+<th class="ritorno">Ritorno<br />
+		24,25-mar</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529767.shtml" >
+						2-3
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529965.shtml" >
+						1-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529768.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529962.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529774.shtml" >
+						3-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529963.shtml" >
+						1-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529770.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529966.shtml" >
+						0-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529773.shtml" >
+						3-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529959.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529772.shtml" >
+						0-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529964.shtml" >
+						0-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529769.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529958.shtml" >
+						2-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529771.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529957.shtml" >
+						1-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529775.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529961.shtml" >
+						0-2
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529776.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529960.shtml" >
+						2-2
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		
+		
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 12 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		07,
+		08-nov
+</th>
+<th class="ritorno">Ritorno<br />
+		27,28-mar</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529777.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529971.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529778.shtml" >
+						2-5
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529973.shtml" >
+						1-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529782.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529969.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529781.shtml" >
+						3-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529976.shtml" >
+						1-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529779.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529970.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529785.shtml" >
+						4-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529968.shtml" >
+						0-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529784.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529972.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529780.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529967.shtml" >
+						0-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529783.shtml" >
+						0-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529974.shtml" >
+						1-4
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529786.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529975.shtml" >
+						1-2
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		</li>
+		<li>
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 13 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		21,
+		22-nov
+</th>
+<th class="ritorno">Ritorno<br />
+03-apr</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529787.shtml" >
+						1-3
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529984.shtml" >
+						0-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529788.shtml" >
+						2-3
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529981.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529790.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529979.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529791.shtml" >
+						4-3
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529977.shtml" >
+						3-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529794.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529980.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529792.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529978.shtml" >
+						0-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529795.shtml" >
+						3-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529986.shtml" >
+						1-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529789.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529982.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529793.shtml" >
+						0-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529983.shtml" >
+						0-2
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529796.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529985.shtml" >
+						0-3
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		
+		
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 14 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		28,
+		29-nov
+</th>
+<th class="ritorno">Ritorno<br />
+		10,11-apr</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529797.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529994.shtml" >
+						2-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529798.shtml" >
+						3-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529988.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529800.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529989.shtml" >
+						1-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529799.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529993.shtml" >
+						2-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529801.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529992.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529802.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529987.shtml" >
+						1-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529805.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529995.shtml" >
+						2-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529804.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529996.shtml" >
+						3-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529803.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529990.shtml" >
+						3-2
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529806.shtml" >
+						0-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529991.shtml" >
+						2-2
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		</li>
+		<li>
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 15 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		05,
+		06-dic
+</th>
+<th class="ritorno">Ritorno<br />
+		16,18-apr</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529807.shtml" >
+						3-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529997.shtml" >
+						1-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529808.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530006.shtml" >
+						0-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529811.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530003.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529812.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530002.shtml" >
+						1-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529810.shtml" >
+						2-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530001.shtml" >
+						3-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529815.shtml" >
+						0-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530000.shtml" >
+						0-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529814.shtml" >
+						3-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529998.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529813.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530004.shtml" >
+						2-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529809.shtml" >
+						3-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529999.shtml" >
+						2-2
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529816.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530005.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		
+		
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 16 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		12,
+		13-dic
+</th>
+<th class="ritorno">Ritorno<br />
+		24,25-apr</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529817.shtml" >
+						3-3
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530011.shtml" >
+						0-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529818.shtml" >
+						3-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530012.shtml" >
+						0-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529820.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530013.shtml" >
+						1-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529824.shtml" >
+						0-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530016.shtml" >
+						1-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529819.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530014.shtml" >
+						2-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529823.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530007.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529821.shtml" >
+						0-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530015.shtml" >
+						1-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529825.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530008.shtml" >
+						1-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529822.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530009.shtml" >
+						1-4
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529826.shtml" >
+						0-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530010.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		</li>
+		<li>
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 17 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		19,
+		24-feb
+</th>
+<th class="ritorno">Ritorno<br />
+		01,02-mag</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529832.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530017.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529830.shtml" >
+						3-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530020.shtml" >
+						0-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529829.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530024.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529831.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530023.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529835.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530019.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529836.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530018.shtml" >
+						2-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529827.shtml" >
+						2-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530025.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529834.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530022.shtml" >
+						0-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529828.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530021.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529833.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530026.shtml" >
+						2-2
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		
+		
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 18 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		06-gen
+</th>
+<th class="ritorno">Ritorno<br />
+09-mag</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529837.shtml" >
+						0-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530027.shtml" >
+						3-4
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529845.shtml" >
+						0-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530036.shtml" >
+						0-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529842.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530032.shtml" >
+						3-3
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529839.shtml" >
+						2-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530033.shtml" >
+						1-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529844.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530031.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529840.shtml" >
+						4-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530029.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529838.shtml" >
+						1-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530034.shtml" >
+						3-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529841.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530028.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529843.shtml" >
+						1-5
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530035.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529846.shtml" >
+						5-2
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530030.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		</li>
+		<li>
+		<table class="data-container">
+<thead><tr>
+<th colspan="2"> 19 &circ; Giornata</th>
+<th class="andata">Andata <br />
+		09,
+		10-gen
+</th>
+<th class="ritorno">Ritorno<br />
+		15,16-mag</th>
+</tr></thead>
+<tbody>
+		<tr class="first-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_roma.shtml?campionato=seriea" >
+					roma
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_chievo.shtml?campionato=seriea" >
+					chievo
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529850.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530042.shtml" >
+						2-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_inter.shtml?campionato=seriea" >
+					inter
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_siena.shtml?campionato=seriea" >
+					siena
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529848.shtml" >
+						4-3
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530041.shtml" >
+						1-0
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bologna.shtml?campionato=seriea" >
+					bologna
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_cagliari.shtml?campionato=seriea" >
+					cagliari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529854.shtml" >
+						0-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530037.shtml" >
+						1-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_fiorentina.shtml?campionato=seriea" >
+					fiorentina
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_bari.shtml?campionato=seriea" >
+					bari
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529852.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530044.shtml" >
+						0-2
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_genoa.shtml?campionato=seriea" >
+					genoa
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_catania.shtml?campionato=seriea" >
+					catania
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529851.shtml" >
+						2-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530038.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_livorno.shtml?campionato=seriea" >
+					livorno
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_parma.shtml?campionato=seriea" >
+					parma
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529853.shtml" >
+						2-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530040.shtml" >
+						1-4
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_napoli.shtml?campionato=seriea" >
+					napoli
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_sampdoria.shtml?campionato=seriea" >
+					sampdoria
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529847.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530045.shtml" >
+						0-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_palermo.shtml?campionato=seriea" >
+					palermo
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_atalanta.shtml?campionato=seriea" >
+					atalanta
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529849.shtml" >
+						1-0
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530043.shtml" >
+						2-1
+					</a>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_udinese.shtml?campionato=seriea" >
+					udinese
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_lazio.shtml?campionato=seriea" >
+					lazio
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529855.shtml" >
+						1-1
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530039.shtml" >
+						1-3
+					</a>
+			</td>
+		</tr>
+		<tr class="last-row">
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_juventus.shtml?campionato=seriea" >
+					juventus
+				</a>
+			</td>
+			<td>
+				<a href="/speciali/risultati_classifiche/calcio/squadre/squadra_milan.shtml?campionato=seriea" >
+					milan
+				</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326529856.shtml" >
+						0-3
+					</a>
+			</td>
+			<td class="risultato">
+					<a href="/speciali/risultati_classifiche/2010/calcio/seriea/tabellini/tabellino_326530046.shtml" >
+						0-3
+					</a>
+			</td>
+		</tr>
+</tbody>
+</table>
+
+		
+	</li>
+</ul>
+		</div> 
+		<!-- if expr="($evento = extratime)" -->
+       	<!-- include virtual="/ssi/dyn/rightcol/extraTimeRC.shtml"-->
+       	<!-- else -->
+		
+
+
+
+<!-- generato da /ssi/dyn/rightcol/calcio.shtml di seriea -->
+
+<div id="rightcol" class="right">
+
+
+
+
+  
+
+
+
+
+
+
+<!-- openX -->
+<ul class="bacheca-mkt"> 
+<li class="clearfix"> 
+<script type='text/javascript'><!--// <![CDATA[
+     OA_show('1bacmkt1');
+// ]]> --></script></li>  
+<li class="clearfix"> 
+<script type='text/javascript'><!--// <![CDATA[  
+  OA_show('1bacmkt2');
+// ]]> --></script></li> 
+<li class="clearfix"> 
+<script type='text/javascript'><!--// <![CDATA[    
+  OA_show('1bacmkt3');
+// ]]> --></script></li> 
+<li class="clearfix"> 
+<script type='text/javascript'><!--// <![CDATA[   
+  OA_show('1bacmkt4');
+// ]]> --></script></li> 
+</ul> 
+
+
+<!--include virtual="/ssi/2008/adv/gsf/${sezione}_default_bacheca_mkt.inc"-->   
+
+
+
+
+
+<!-- [an error occurred while processing this directive]  -->	
+
+<div class="poker">
+	<h4><a href="/Poker">Poker</a></h4>
+	<h6>GIOCA ONLINE NELLE POKER ROOM ITALIANE!</h6>
+	<ul class="clear clearfix">
+
+<!--include virtual="/ssi/2008/boxes/poker/poker_link_fornitorebetClic.shtml"-->
+<li class="clearfix">
+
+<a href="http://clickpoker.gazzetta.it/redirect?fornitore=sisal&url=http://www.sisalpoker.it?source=psmgazzettabachecahp142x28" target="_blank">
+
+	<img src="http://images2.gazzettaobjects.it/ssi/2008/boxes/poker/img/logo_142x28_fondonero.gif?v=20100927112909"
+	 alt="placeholder" width="142" height="28" border="0" />
+
+</a>
+Vivi tutte le emozioni di un vero tavolo da poker! 
+<br />
+Prova <a style="display:inline-block;" href="http://clickpoker.gazzetta.it/redirect?fornitore=sisal&url=http://www.sisalpoker.it?source=psmgazzettabachecahp142x28">SISALPOKER.IT</a></li>
+
+
+<li class="clearfix"><a href="http://clickpoker.gazzetta.it/redirect?fornitore=pokerstars&url=http://www.pokerstars.it/?source=psmgazzettabachecahp142x28"><img src="http://images2.gazzettaobjects.it/Poker/pokerstars.jpg?v=20090511161725" width="142" height="28" border="0"></a> Sei pronto per un vero torneo di poker?  <a href="http://clickpoker.gazzetta.it/redirect?fornitore=pokerstars&url=http://www.pokerstars.it/?source=psmgazzettabachecahp142x28">GIOCA SU POKERSTARS.IT </a></li>
+
+<li class="clearfix"><a href="http://goto.giocodigitale.it/goto/cp/cross_page.html?target=http://lp.giocodigitale.it/lp/lp_gdpoker/lp_gdpoker.html&cmp=CP_BonusGazzettaPoker"><img src="http://images2.gazzettaobjects.it/Poker/gdpoker.gif?v=20110331120534"border="0"></a> La poker house dove trovare il tuo Gioco Digitale  <a href="http://goto.giocodigitale.it/goto/cp/cross_page.html?target=http://lp.giocodigitale.it/lp/lp_gdpoker/lp_gdpoker.html&cmp=CP_BonusGazzettaPoker">Scopri subito GDpoker</a></li>
+<li class="clearfix">
+
+<a  target="_blank" href="http://clickpoker.gazzetta.it/redirect?fornitore=sisal&url=http://www.peoplespoker.it/">
+
+	<img src="http://images2.gazzettaobjects.it/ssi/2008/boxes/poker/img/testata_people_poker.gif?v=20110510175420"
+	 alt="placeholder" width="142" height="28" border="0" />
+
+</a>
+L’unica Poker Room che ti porta alle WSOP 
+<br />
+<a  target="_blank" style="display:inline-block;" href="http://clickpoker.gazzetta.it/redirect?fornitore=sisal&url=http://www.peoplespoker.it">Gioca subito su www.peoplespoker.it</a></li>
+
+<li class="clearfix">
+
+<a href="http://ad-emea.doubleclick.net/clk;231591679;65739776;g" target="_blank">
+
+	<img src="http://images2.gazzettaobjects.it/ssi/2008/boxes/poker/img/Logo_Poker_Club.gif?v=20110627180348"
+	 alt="placeholder" width="142" height="28" border="0" />
+
+</a>
+L'adrenalina del Poker, la Sicurezza di Lottomatica.
+<a style="display:inline-block;" href="http://ad-emea.doubleclick.net/clk;231591679;65739776;g">Gioca Ora!</a></li>
+
+<!--sinclude virtual="/ssi/2008/boxes/poker/poker_link_fornitorePartypoker.shtml"-->
+	</ul>
+	<div class="fixed-content-element">
+		<a href="/Poker" class="fixed-content-link blue-pointer">Home Poker</a>
+	</div>
+</div>
+
+
+<div class="rightcol_div_openx2">  <h6>Pubblicit&agrave;</h6>
+
+
+<script type='text/javascript'><!--// <![CDATA[
+     OA_show('GAZbac01');
+// ]]> --></script>
+
+<script type='text/javascript'><!--// <![CDATA[
+     OA_show('GAZbac02');
+// ]]> --></script>
+
+<script type='text/javascript'><!--// <![CDATA[
+     OA_show('GAZbac03');
+// ]]> --></script>
+
+<script type='text/javascript'><!--// <![CDATA[
+     OA_show('GAZbac04');
+// ]]> --></script>
+
+<script type='text/javascript'><!--// <![CDATA[
+     OA_show('GAZbac05');
+// ]]> --></script>
+
+<script type='text/javascript'><!--// <![CDATA[
+     OA_show('GAZbac06');
+// ]]> --></script>
+
+<script type='text/javascript'><!--// <![CDATA[
+     OA_show('GAZbac07');
+// ]]> --></script>
+
+<script type='text/javascript'><!--// <![CDATA[
+     OA_show('GAZbac08');
+// ]]> --></script>
+
+<script type='text/javascript'><!--// <![CDATA[
+     OA_show('GAZbac09');
+// ]]> --></script>
+
+<script type='text/javascript'><!--// <![CDATA[
+     OA_show('GAZbac10');
+// ]]> --></script>
+
+
+</div>
+
+<!--  SET BACHECA GAZZATOWN - GAZZETTA STORE  -->
+
+
+	<!--generato da/ssi/2008/boxes/shared/gazzatown/calcio_seriea.html--> 
+	<!-- Copyright 2000, 2001, 2002, 2003 Macromedia, Inc. All rights reserved. -->
+<title>Altri caratteri</title>
+<div class="fixed-content-right clearfix">
+	<h4>Gazza Town</h4>
+
+	<ul class="clear clearfix gazzatown">
+		<li class="clearfix">
+			<img src="http://images2.gazzettaobjects.it/ssi/images/box_gazzatown/italia_100x60.jpg?v=20110707154623" alt="" class="right" />
+			<a rel="expand" class="gazzatown-link" target="_blank" href="http://gazzatown.gazzetta.it/maglie-nazionali/italia/R_6sEWcWXy8AAAErLLpcMaVv/ct?intcmp=C13A139B33D01E01F02G673">Tifa ITALIA con i nostri grandi sconti!</a> Fino a -50% su tutti i prodotti ufficiali della Nazionale! Scoprili!</li>
+	</ul>
+	<div class="fixed-content-element">
+		<a href="http://gazzatown.gazzetta.it/" target="_blank">Acquista online</a>
+	</div>
+</div> 
+
+
+<div class="fixed-content-right clearfix">
+	<h4>Gazzetta store</h4>
+
+	<ul class="clear clearfix gazzatown">
+		<li class="clearfix">
+			<img src="http://images2.gazzettaobjects.it/ssi/images/box_gazzatown/100x60soldatini.jpg?v=20110527100615" alt="" class="right" />
+<a class="gazzatown-link" rel="expand" target="_blank" href="http://store.gazzetta.it/varia/soldatini-d-italia/pyesEWcVq18AAAEwuXhnbibz/ct?TopCatalogCategoryID=NU6sEWcVjgUAAAEoZWwj_5Lh&amp;ShowAllProducts=YES&amp;intcmp=C13A139B33D01E01F02G669">SOLDATINI D’ITALIA</a><span> La storia italiana attraverso mitici soldatini dipinti a mano. <strong>Ogni giovedì in edicola</strong> solo con Gazzetta.</span></li>
+
+		<li class="clearfix">
+			<img src="http://images2.gazzettaobjects.it/ssi/images/box_gazzatown/gazzetta_100x60.jpg?v=20110629165249" alt="" class="right" />
+<a class="gazzatown-link" rel="expand" target="_blank" href="
+http://store.gazzetta.it/motori/tourist-trophy-2011-e-le-migliori-gare-stradali/lnisEWcVcfAAAAEw7LkZEp1l/ct?TopCatalogCategoryID=&ShowAllProducts=YES&intcmp=C13A139B33D01E01F02G780">TOURIST TROPHY 2011</a>La collana ufficiale in DVD dedicata al TT 2011 e alle migliori gare stradali. Dal 5 luglio in edicola solo con Gazzetta.</li>
+
+		<li class="clearfix">
+			<img src="http://images2.gazzettaobjects.it/ssi/images/box_gazzatown/100x60_fabri.jpg?v=20110706102129" alt="" class="right" />
+    <a class="gazzatown-link" rel="expand" target="_blank"  href="http://store.gazzetta.it/musica/fabri-fibra-collection/HfWsEWcVDcsAAAEwEAtCB_q9/ct?TopCatalogCategoryID=&amp;ShowAllProducts=YES&amp;intcmp=C13A139B33D01E01F02G794">FABRI FIBRA COLLECTION
+</a>Tutti gli album del n.1 del rap italiano. Dall’ 8 luglio in edicola <strong>CONTROCULTURA a soli 9,99 euro!</strong></li>
+
+		<li class="clearfix">
+			<img src="http://images2.gazzettaobjects.it/ssi/images/box_gazzatown/marketing_digitale116x66.jpg?v=20110420150535" alt="" class="right" />
+			<a class="gazzatown-link" rel="expand" target="_blank"  href="http://libreriarizzoli.corriere.it/is-bin/INTERSHOP.enfinity/WFS/RCS-RCS_PhysicalShops-Site/it_IT/-/EUR/ViewStandardCatalog-Browse?CategoryName=EBOOK_ROOT&CategoryDomainName=RCS-LibreriaRizzoli&Root=eBook &intcmp=C26A139B33D01E01F02G576">Libreria Rizzoli.it</a>
+			<span><strong>SCOPRI IL DIGITALE!</strong> <br />
+			Scarica GRATIS &quot;Pinocchio&quot; di Collodi in versione eBook</span>
+		</li>
+
+	</ul>
+
+	<div class="fixed-content-element">
+		<a href="http://store.gazzetta.it/" class="fixed-content-link blue-pointer" target="_blank">Acquista online, <strong>SPEDIZIONI GRATIS</strong> per l'acquisto di collane complete</a>
+	</div>
+
+</div>
+
+
+
+
+
+
+<!--<div id="example01"></div> -->
+<!--<div id="example02"></div> -->           
+
+</div>
+
+<!-- FINE generato da /ssi/rightcol/calcio.shtml-->
+
+    
+
+		<!-- endif -->
+	</div>
+	
+  <div id="footer" class="clear">
+		<!--include virtual="/ssi/2008/boxes/shared/footer.shtml" -->
+		<ul id="sections-menu" class="footer-menu clear clearfix">
+			<li><strong>Gazzetta.it</strong></li>
+			<li><a href="http://www.gazzetta.it/">Home</a> |</li>
+			<li><a href="http://www.gazzetta.it/Calcio/">Calcio</a> |</li>
+			<li><a href="http://www.gazzetta.it/Motori/">Motori</a> |</li>            
+			<li><a href="http://www.gazzetta.it/Speciali/Giroditalia/2009/it/">Giro</a> |</li>
+			<li><a href="http://www.gazzetta.it/Ciclismo/">Ciclismo</a> |</li>
+			<li><a href="http://www.gazzetta.it/Sport_Vari/Basket/">Basket</a> |</li>
+			<li><a href="http://www.gazzetta.it/Sport_Vari/">Altri Sport</a> |</li>
+			<li><a href="http://video.gazzetta.it/?vxChannel=Primo%20Piano">Gazzetta TV</a> |</li>
+			<li><a href="http://www.sportweek.it/">SportWeek</a> |</li>
+			<li><a href="http://www.gazzetta.it/blog">Blog</a> |</li>
+			<li><a href="http://gazzaspace.gazzetta.it/">GazzaSpace</a> |</li>
+			<li><a href="http://www.gazzetta.it/Magic_Cup">Magic</a> |</li>
+			<li><a href="http://www.gazzetta.it/quote/">Giochi &amp; Scommesse</a></li>
+		</ul>
+		
+		<ul id="sites" class="footer-menu clear clearfix">
+			<li><a href="http://www.fondazionecannavo.it/" target="_blank">Fondazionecannavo.it</a> |</li>
+			<!--<li><a href="http://www.rcsdigital.it/">Rcs Digital</a> |</li>-->
+			<li><a href="http://www.rcsmediagroup.it/">Rcs Mediagroup</a> |</li>
+			<li><a href="http://www.corriere.it/">Corriere.it</a> |</li>
+			<li><a href="http://lavoro.corriere.it/?77tadunit=fa200136&77tentry=FooterGazzetta">TrovoLavoro</a> |</li>
+			<li><a href="http://viaggi.corriere.it/">Corriere Viaggi</a> |</li>
+			<li><a href="http://auto.corriere.it/">Automobili.com</a> |</li>
+			<li><a href="http://viaggi.corriere.it/">TrovoViaggi</a> |</li>
+			<li><a href="http://www.fueps.com/">Fueps</a> |</li>
+			<li><a href="http://www.elmundo.es/">El Mundo</a> |</li>
+			<li><a href="http://www.rcsmobile.it/?utm_source=Gazzetta&utm_medium=footer&utm_campaign=Gazzetta_footer ">Rcs Mobile</a> |</li>
+			<li><a href="http://www.rcssport.it/">RCS Sport</a> |</li>
+			<li><a href="http://www.dada.eu/">Dada.eu</a> |</li>
+			<li><a href="http://www.marca.com/">Marca.com</a></li>
+			
+			
+			 <li class="acapo"><a href="http://www.gazzetta.it/redazione.shtml">Redazione</a> | </li>
+      <li class="acapo"><a href="http://www.gazzetta.it/mappa_sito.shtml">Mappa</a> | </li>
+			<li class="acapo"><a href="http://www.gazzetta.it/common/scrivici.shtml">Scrivici</a> | </li>
+            <li class="acapo"><a href="http://www.gazzetta.it/Speciali/privacy.shtml">Cookie policy e privacy</a></li>
+			
+			
+		</ul>
+		
+	
+		<ul class="footer-menu clear clearfix">
+			<li><strong>Copyright 2014 &copy; RCS MediaGroup S.p.A. Tutti i diritti riservati</strong> | Per la pubblicit&agrave;</li>
+            <li><a title="" href="http://www.rcspubblicita.it/" target="_blank">RCS Mediagroup S.p.A. - Divisione Pubblicit&agrave;</a></li>
+            <li>RCS MediaGroup S.p.A. Sede legale: via Angelo Rizzoli, 8 - 20132 Milano</li>
+            <li>&nbsp;|&nbsp;Codice Fiscale, Partita I.V.A. e Iscrizione al Registro delle Imprese di Milano n.12086540155</li>
+            <li>R.E.A. di Milano: 1524326 - Capitale sociale &euro; 475.134.602,10</li>
+            <li class="right">
+            	<br /><a href="http://www.opa-europe.org/" target="_blank" rel="nofollow"><img border="0" src="http://images2.gazzettaobjects.it/libs/css/default_theme/assets/opa-europe2.png"></a>
+            </li>
+            <li class="right">
+				<br /><a target="_blank" rel="nofollow" href="http://the-acap.org/acap-enabled.php"><img height="15" width="81" border="0" alt="This website is ACAP-enabled" src="http://images2.gazzettaobjects.it/libs/css/default_theme/assets/acap_enabled_small.gif"/></a>
+            </li>                        
+        </ul>         
+		<div style="text-align: right; padding-right: 2px;"><a style="text-decoration: none; color: #333; font-size: 11px;" target="_blank" href="http://www.hamburgdeclaration.org/">Hamburg Declaration</a></div>
+</div>
+    
+
+    
+       
+    	
+
+
+
+
+</div>
+
+<!-- generato da /ssi/dyn/bottom/calcio.shtml -->
+
+<!-- JS -->
+
+<!-- generato da /ssi/dyn/bottom/common_js_bottom.shtml -->
+
+    
+<script type="text/javascript" src="http://js2.gazzettaobjects.it/libs4/js/multifunctionBar_new_cookie.js?v=201505281803" ></script>
+
+
+    
+
+
+
+
+<script src="http://js2.gazzettaobjects.it/libs/js/first_load.js?v=201001131153" type="text/javascript"></script>
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/jquery.cycle.js?v=200904231848" type="text/javascript"></script>
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/jquery.cookie.js?v=200904231848" type="text/javascript"></script>
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/jquery.metadata.min.js?v=200904231848" type="text/javascript"></script>
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/jquery.validate.min.js?v=200904231848" type="text/javascript"></script>
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/jquery.example.js?v=200904231848" type="text/javascript"></script>
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/jquery.tooltip.js?v=200904231848" type="text/javascript"></script>
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/jquery.jcarousel.js?v=200904231848" type="text/javascript"></script>
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/jquery.form.js?v=200905081515" type="text/javascript"></script>
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/jquery.scrollTo-1.3.3-min.js?v=200904091109" type="text/javascript"></script>
+
+
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/jquery.selectboxes.min.js?v=200907091115" type="text/javascript"></script>
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/jquery.jmp3.js?v=201007011723" type="text/javascript">	</script>
+
+
+ 
+
+
+<script src="http://js2.gazzettaobjects.it/libs/js/common.js?v=201607291838" type="text/javascript"></script>
+
+<script src="http://js2.gazzettaobjects.it/libs4/js/meteo.js?v=201412191807" type="text/javascript"></script>
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/jquery.shuffle.js?v=201003181157" type="text/javascript"></script>
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/readspeaker.js?v=201006071220" type="text/javascript"></script>
+<script type="text/javascript" src="http://js2.gazzettaobjects.it/mappe/js/maps.js?v=201105181123"></script>
+
+   
+
+
+
+
+
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/jquery-ui-1.7.2.custom.min.js?v=200911061414" type="text/javascript"></script>
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/ui.datepicker-it.js?v=200911061638" type="text/javascript"></script>
+<script src="http://js.gazzettaobjects.it/libs/js/risa.js?v=201107051911" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+<!--04.08.2011: modifica per fare zoom sulle immagini degli articoli-->
+<script src="http://js2.gazzettaobjects.it/libs/js/plugins/lightbox_plus.js?v=201108041520" type="text/javascript">	</script>
+
+<!-- plugin thickbox per login e risposta dilatua -->
+<script src="http://js2.gazzettaobjects.it/libs4/js/plugin/thickbox-compressed.js?v=201305091154" type="text/javascript">	</script>
+
+
+
+<script type='text/javascript'>
+$('body#home #rightcol div.poker ul').shuffle();
+
+</script>
+
+
+<script>
+
+var cookie = $.cookie("rcsLogin");
+ if (cookie != null) {
+ $(".registrati_link").css("display","none");
+
+ }
+
+</script>
+<script language="javascript">
+
+var addStyle = '<style type="text/css">.marca span.right {margin:-17px 10px 0 0;}</style>';
+var navAgent = navigator.userAgent.toString();
+if(navAgent.indexOf("Firefox")!=-1 && navAgent.indexOf("/3.0")!=-1){
+document.getElementsByTagName('head')[0].innerHTML += addStyle
+}
+
+if (browser_user_ag == "iPad") {
+
+
+if ( $(".medium-rectang").height()  < 10) {
+$('.medium-rectang"').css('display','none');
+}else{
+$('.square_ipad').css('display','none');
+}
+
+} else {
+
+}
+
+</script>
+
+ 
+
+
+
+    <script type="text/javascript" src="http://static2.advtools.rcsobjects.it/cpmt/gazzetta_ct.js"></script>
+
+
+<script type="text/javascript" src="/libs/js/plugins/jquery.guillotine.min.js"></script>
+<script type="text/javascript" src="/includes2013/LIBS/js/vendor/plugins/jquery.bxslider.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+      
+      var mapPicture = $('#mapZoom');  // Must be already loaded or cached!
+      var altimetriaPicture = $('#altZoom'); 
+      var mapPictureWe = $('#mapZoomWe');  
+      var altimetriaPictureWe = $('#altZoomWe'); 
+      var kmPicture = $('#kmZoom'); 
+      var cronoPicture = $('#cronoZoom');  
+      var salitePicture = $('#saliteZoom');  
+      var arrivoPicture = $("#arrivoZoom");
+      var partenzaPicture = $("#partenzaZoom");
+
+      if($(".bxslider-salite").length){
+        //setTimeout(function{
+          $(".bxslider-salite").bxSlider();
+          var salitePic = $('.saliteZoom'); 
+          zoomAndMove(salitePic, $('#zoom-in-salite'), $('#zoom-out-salite'));
+        //}, 100);
+      } else {
+          zoomAndMove(salitePicture, $('#zoom-in-salite'), $('#zoom-out-salite'));
+      }
+
+      zoomAndMove(mapPictureWe, $('#zoom-in-button-we'), $('#zoom-out-button-we'));
+      zoomAndMove(altimetriaPictureWe, $('#zoom-in-we'), $('#zoom-out-we'));
+      zoomAndMove(mapPicture, $('#zoom-in-button'), $('#zoom-out-button'));
+      zoomAndMove(altimetriaPicture, $('#zoom-in'), $('#zoom-out'));
+      zoomAndMove(kmPicture, $('#zoom-in-km'), $('#zoom-out-km'));
+      zoomAndMove(arrivoPicture, $('#zoom-in-arrivo'), $('#zoom-out-arrivo'));
+      zoomAndMove(partenzaPicture, $('#zoom-in-partenza'), $('#zoom-out-partenza'));
+
+      cronoPicture.guillotine({
+          eventOnChange: 'guillotinechange',
+          width: 800,
+          height: 400,
+          init: {scale: 0.2, angle: 0, x: 0, y: 0, w: 800, h: 300}
+      });
+
+      zoomAndMove(cronoPicture, $('#zoom-in-crono'), $('#zoom-out-crono'));
+
+    });
+
+    function zoomAndMove(picture, zoomInId, zoomOutId){
+      picture.guillotine({
+          eventOnChange: 'guillotinechange',
+          width: 800,
+          height: 400,
+          init: {scale: 0.2, x:0, y:150}
+      });
+
+      zoomInId.click(function(){ picture.guillotine('zoomIn'); });
+      zoomOutId.click(function(){ picture.guillotine('zoomOut'); });
+
+    }
+
+  </script>
+
+<!-- Cookie Policy-->
+<script type="text/javascript" src="http://static2.advtools.rcsobjects.it/cpmt/gazzetta_ct.js"></script>
+<!-- generato da /ssi/dyn/bottom/web_analytics.shtml -->
+<!-- Inizio Omniture SiteCatalyst -->
+
+
+
+
+<!-- Inizio generato da: /ssi/dyn/bottom/sitecatalyst.shtml -->
+
+
+<!-- SiteCatalyst code version: H.20.3.
+Copyright 1996-2009 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script src="http://static2.advtools.rcsobjects.it/omniture/gazzetta/s_code.js" type="text/javascript"></script>
+<script src="http://static2.advtools.rcsobjects.it/omniture/gazzetta/config.js" type="text/javascript"></script>
+<script src="http://static2.advtools.rcsobjects.it/omniture/gazzetta/TrackFunctions.js?" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript"><!--
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://metrics.rcsmetrics.it/b/ss/rcsglobal/1/H.20.3--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. -->
+<!-- Fine Omniture SiteCatalyst -->
+
+
+
+    
+
+<!-- START Nielsen//NetRatings SiteCensus V5.2 -->
+<!-- COPYRIGHT 2006 Nielsen//NetRatings -->
+<script type="text/javascript">
+var _rsCI="rcs-it";	 /* client ID */
+var _rsCG="0";	 /* content group */
+var _rsDN="//secure-it.imrworldwide.com/";	 /* data node */ 
+var _rsCC=0;	 /* to turn on whether to check for existing cookie, 1=on */ 
+var _rsIP=1;	 /* to turn on 'invisible pixel' option, 1=on */
+</script>
+<script type="text/javascript" src="//secure-it.imrworldwide.com/v52.js"></script>
+<noscript>
+<div><img src="//secure-it.imrworldwide.com/cgi-bin/m?ci=rcs-it&amp;cg=0" style="display:none" alt=""/></div>
+</noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.2 -->
+
+
+<!-- finegenerato da /ssi/dyn/bottom/web_analytics.shtml -->
+
+<!-- fine generato da /ssi/dyn/bottom/common_js_bottom.shtml -->
+
+
+
+<!-- fine generato da /ssi/dyn/bottom/calcio.shtml -->
+<!-- /speciali/risultati_classifiche/2010/calcio/seriea -->
+<!-- /speciali/risultati_classifiche/2010/calcio/seriea/includes/menu.shtml -->
+<!-- (none) -->
+
+</body>
+</html>
