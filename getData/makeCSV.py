@@ -23,8 +23,6 @@ class Giornata():
         self.giornataRitorno = -1
         self.dataAndata = ""
         self.dataRitorno = ""
-        self.dataAndataDone = False
-        self.dataRitornoDone = False
         self.partite = []
 
 #andata (1ª)
@@ -59,6 +57,17 @@ class MyHTMLParser(HTMLParser):
         data_clean = data_clean.replace("\\xc2","")
         data_clean = data_clean.replace("\\xaa","")
         data_clean = data_clean.replace(" ","")
+        
+        if "h4" in HTMLParser.currentTags or "h3" in HTMLParser.currentTags or "h2" in HTMLParser.currentTags:
+            if 'Calendario' == data_clean:
+                HTMLParser.flag = True
+            elif len(data_clean)>0 and data_clean[0].isalpha() and not "modifica" in data_clean:
+                HTMLParser.flag = False
+                if len(HTMLParser.giornata.partite)>0:
+                    HTMLParser.giornate.append(HTMLParser.giornata)
+                HTMLParser.giornata = Giornata(-1)
+        
+        
         if HTMLParser.flag and len(data_clean)>0 and data_clean[0].isalnum():
             print(data_clean)
             if "ndata" in data_clean:
@@ -82,16 +91,12 @@ class MyHTMLParser(HTMLParser):
                         HTMLParser.partita.ritorno = Risultato(data_clean)
                         HTMLParser.giornata.partite.append(HTMLParser.partita)
                         HTMLParser.partita = Partita()
-            elif not HTMLParser.giornata.dataAndataDone:
-                if len(HTMLParser.giornata.dataAndata)>0:
-                    HTMLParser.giornata.dataAndataDone =  True
-                HTMLParser.giornata.dataAndata += data_clean
-            elif not HTMLParser.giornata.dataRitornoDone:
-                if len(HTMLParser.giornata.dataRitorno)>0:
-                    HTMLParser.giornata.dataRitornoDone =  True
-                HTMLParser.giornata.dataRitorno += data_clean
+            elif HTMLParser.giornata.dataAndata=="":
+                HTMLParser.giornata.dataAndata = data_clean
+            elif HTMLParser.giornata.dataRitorno=="" and HTMLParser.partita:
+                HTMLParser.giornata.dataRitorno = data_clean
             else:
-                print("???? ",data_clean)
+                print("???? ",data_clean,HTMLParser.currentTags)
 #        if "\\r" in data_clean:
 #            HTMLParser.flag = False
 #            HTMLParser.counter = 0
@@ -123,13 +128,6 @@ class MyHTMLParser(HTMLParser):
 #        
 #        
         self.text +=data
-        
-        if "h4" in HTMLParser.currentTags or "h3" in HTMLParser.currentTags:
-            if 'Calendario' == data_clean:
-                HTMLParser.flag = True
-            elif len(data_clean)>0 and data_clean[0].isalpha() and not "modifica" in data_clean:
-                HTMLParser.flag = False
-
 
 #        print data,
 #        print("Encountered some data  :", data,self.currentTags)
@@ -137,8 +135,9 @@ class MyHTMLParser(HTMLParser):
 #response = urllib.request.urlopen('http://www.gazzetta.it/speciali/risultati_classifiche/2010/calcio/seriea/calendario.shtml')
 
 files = [
-#    "/home/sdonato/tensorflow/code/getData/web/2010_A.html",
-    "/home/sdonato/tensorflow/code/getData/web/2010_B.html",
+#    "/home/sdonato/tensorflow/code/getData/web/1929_B.html",
+    "/home/sdonato/tensorflow/code/getData/web/1930_A.html",
+#    "/home/sdonato/tensorflow/code/getData/web/2010_B.html",
 #    "/home/sdonato/tensorflow/code/getData/web/b_2010.html",
 ]
 
