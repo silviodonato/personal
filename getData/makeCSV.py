@@ -1,6 +1,26 @@
-### Define the HTML parser class. We use it to simply transform the html in a string without tags (MyHTMLParser.text)
+### Define the HTML parser class. We use it to simply transform the html in a string without tags (Myself.text)
 import urllib.request
+import datetime
 from html.parser import HTMLParser
+
+mesi = {
+    'gen':1,    'feb':2,    'mar':3,    'apr':4,
+    'mag':5,    'giu':6,    'lug':7,    'ago':8,
+    'set':9,    'ott':10,    'nov':11,    'dic':12,
+}
+
+def fixData(data,anno):
+    giorno = ''.join(ch for ch in data if ch.isnumeric())
+    mese = ''.join(ch for ch in data if ch.isalpha())
+    if mesi[mese]<=7: anno+=1
+    data = "%s/%s/%d"%(giorno,mesi[mese],anno)
+    return data
+
+def dataToInt(data):
+    g,m,a = data.split("/")
+    a = int(a) - 1928
+    t = datetime.datetime(a, int(m), int(g), 0, 0)
+    return t.toordinal()
 
 squadre = []
 class Risultato():
@@ -17,8 +37,10 @@ class Partita():
         self.ritorno = None
 
 class Giornata():
-    def __init__(self,giornata):
+    def __init__(self,giornata,anno,serie):
         self.giornata = giornata
+        self.anno = anno
+        self.serie = serie
         self.giornataAndata = -1
         self.giornataRitorno = -1
         self.dataAndata = ""
@@ -27,17 +49,24 @@ class Giornata():
 
 #andata (1ª)
 class MyHTMLParser(HTMLParser):
-    HTMLParser.flag=False
-    HTMLParser.casa = None
-    HTMLParser.ospiti = None
-    HTMLParser.andata = None
-    HTMLParser.ritorno = None
-    HTMLParser.counter = 0
-    HTMLParser.giornata = Giornata(-1)
-    HTMLParser.partita = Partita()
-    HTMLParser.giornate = []
-    HTMLParser.text = ""
-    HTMLParser.currentTags = []
+    def __init__(self, anno,serie):
+        HTMLParser.__init__(self)
+        self.anno = anno
+        self.serie = serie
+        self.anno = anno
+        self.serie = serie
+        self.flag=False
+        self.casa = None
+        self.ospiti = None
+        self.andata = None
+        self.ritorno = None
+        self.counter = 0
+        self.giornata = Giornata(-1,self.anno,self.serie)
+        self.partita = Partita()
+        self.giornate = []
+        self.text = ""
+        self.currentTags = []
+    
     def handle_starttag(self, tag, attrs):
         self.currentTags.append(tag)
 #        print("Encountered a start tag:", tag)
@@ -56,135 +85,93 @@ class MyHTMLParser(HTMLParser):
         data_clean = data_clean.replace("\\t","")
         data_clean = data_clean.replace("\\xc2","")
         data_clean = data_clean.replace("\\xaa","")
+        data_clean = data_clean.replace("\\xba","")
         data_clean = data_clean.replace(" ","")
         
-        if "h4" in HTMLParser.currentTags or "h3" in HTMLParser.currentTags or "h2" in HTMLParser.currentTags:
+        if "h4" in self.currentTags or "h3" in self.currentTags or "h2" in self.currentTags:
             if 'Calendario' == data_clean:
-                HTMLParser.flag = True
+                self.flag = True
             elif len(data_clean)>0 and data_clean[0].isalpha() and not "modifica" in data_clean:
-                HTMLParser.flag = False
-                if len(HTMLParser.giornata.partite)>0:
-                    HTMLParser.giornate.append(HTMLParser.giornata)
-                HTMLParser.giornata = Giornata(-1)
+                self.flag = False
+                if len(self.giornata.partite)>0:
+                    self.giornate.append(self.giornata)
+                self.giornata = Giornata(-1,self.anno,self.serie)
         
-        
-        if HTMLParser.flag and len(data_clean)>0 and data_clean[0].isalnum():
-            print(data_clean)
+        if self.flag and len(data_clean)>0 and data_clean[0].isalnum():
+#            print(data_clean)
             if "ndata" in data_clean:
-                if len(HTMLParser.giornata.partite)>0:
-                    HTMLParser.giornate.append(HTMLParser.giornata)
+                if len(self.giornata.partite)>0:
+                    self.giornate.append(self.giornata)
                 giornata_andata = int(data_clean.split("(")[1].split(")")[0])
-                HTMLParser.giornata = Giornata(giornata_andata)
-                HTMLParser.giornata.giornataAndata = giornata_andata
+                self.giornata = Giornata(giornata_andata,self.anno,self.serie)
+                self.giornata.giornataAndata = giornata_andata
             elif "itorno" in data_clean:
                 giornata_ritorno = int(data_clean.split("(")[1].split(")")[0])
-                HTMLParser.giornata.giornataRitorno = giornata_ritorno
-            elif "giornata" in data_clean:
+                self.giornata.giornataRitorno = giornata_ritorno
+            elif "giornata" in data_clean or "alendario" in data_clean or "odifica" in data_clean:
                 pass
             elif "-" in data_clean:
                 if data_clean[0].isalpha():
-                    HTMLParser.partita.casa,HTMLParser.partita.ospiti = data_clean.split("-")
+                    self.partita.casa,self.partita.ospiti = data_clean.split("-")
                 else:
-                    if HTMLParser.partita.casa==None:
-                        HTMLParser.partita.andata = Risultato(data_clean)
+                    if self.partita.casa==None:
+                        self.partita.andata = Risultato(data_clean)
                     else:
-                        HTMLParser.partita.ritorno = Risultato(data_clean)
-                        HTMLParser.giornata.partite.append(HTMLParser.partita)
-                        HTMLParser.partita = Partita()
-            elif HTMLParser.giornata.dataAndata=="":
-                HTMLParser.giornata.dataAndata = data_clean
-            elif HTMLParser.giornata.dataRitorno=="" and HTMLParser.partita:
-                HTMLParser.giornata.dataRitorno = data_clean
+                        self.partita.ritorno = Risultato(data_clean)
+                        self.giornata.partite.append(self.partita)
+                        self.partita = Partita()
+            elif self.giornata.dataAndata=="":
+                self.giornata.dataAndata = fixData(data_clean,anno)
+            elif self.giornata.dataRitorno=="" and self.partita:
+                self.giornata.dataRitorno = fixData(data_clean,anno)
             else:
-                print("???? ",data_clean,HTMLParser.currentTags)
-#        if "\\r" in data_clean:
-#            HTMLParser.flag = False
-#            HTMLParser.counter = 0
-#        data_clean = data_clean.replace(" ","")
-##        if len(data_clean)>0 and HTMLParser.flag:
-##            HTMLParser.giornate[len(HTMLParser.giornate)-1] += "\n"+data_clean
-#        if HTMLParser.counter>0 and not data_clean:
-#            HTMLParser.counter+=1
-##        print("data_clean",data_clean,".",HTMLParser.counter)
-#        if HTMLParser.counter>=7 and data_clean:
-#            if HTMLParser.partita.casa<0:
-#                if not data_clean in squadre:
-#                    squadre.append(data_clean)
-#                HTMLParser.partita.casa = squadre.index(data_clean)
-#            elif HTMLParser.partita.ospiti<0:
-#                if not data_clean in squadre:
-#                    squadre.append(data_clean)
-#                HTMLParser.partita.ospiti = squadre.index(data_clean)
-#            elif not HTMLParser.partita.andata:
-#                HTMLParser.partita.andata = Risultato(data_clean)
-#            elif not HTMLParser.partita.ritorno:
-#                HTMLParser.partita.ritorno = Risultato(data_clean)
-#                HTMLParser.giornata.partite.append(HTMLParser.partita)
-#                print("### Partita %s - %s | %s | %s"%(HTMLParser.partita.casa,HTMLParser.partita.ospiti,HTMLParser.partita.andata,HTMLParser.partita.ritorno))
-#                HTMLParser.partita = Partita()
-#            
-#        if HTMLParser.casa:
-#            HTMLParser.ospiti = data_clean
-#        
-#        
+                print("???? ",data_clean,self.currentTags)
         self.text +=data
 
-#        print data,
-#        print("Encountered some data  :", data,self.currentTags)
-
-#response = urllib.request.urlopen('http://www.gazzetta.it/speciali/risultati_classifiche/2010/calcio/seriea/calendario.shtml')
-
-files = [
-#    "/home/sdonato/tensorflow/code/getData/web/1929_B.html",
-    "/home/sdonato/tensorflow/code/getData/web/1930_A.html",
-#    "/home/sdonato/tensorflow/code/getData/web/2010_B.html",
-#    "/home/sdonato/tensorflow/code/getData/web/b_2010.html",
-]
-
-parser = MyHTMLParser()
-
-for fileName in files:
-    response = urllib.request.urlopen("file://"+fileName)
-    mfile = response.read()
-    
-    parser.feed(str(mfile))
+giornate = []
+for serie in ["A","B"]:
+    for anno in range(1929,1930):
+        fileName = "/home/sdonato/tensorflow/code/getData/web/%s_%s.html"%(str(anno),serie)
+        print(fileName)
+        response = urllib.request.urlopen("file://"+fileName)
+        mfile = response.read()
+        parser = MyHTMLParser(anno,serie)
+        parser.feed(str(mfile))
+        giornate += parser.giornate
 
 
 csv = ""
-giornate = parser.giornate
+debug = ""
+
+mesi = set()
 
 for giornata in giornate:
     giorn = int(giornata.giornataAndata)
-    print("### Giornata ###",giorn)
-    print(giornata.dataAndata)
+    data = giornata.dataAndata
+    dataInt = dataToInt(data)
+    debug += "### Giornata %s - Campionato %s - Serie %s - %s ###\n"%(giorn,giornata.anno,giornata.serie, data)
     for partita in giornata.partite:
-        print("# Partita %s - %s | %s-%s"%(partita.casa,partita.ospiti,partita.andata.golCasa,partita.andata.golOspiti))
-        csv += "%s,%s,%s,%s\n"%(giorn,partita.casa,partita.ospiti,partita.andata.golCasa-partita.andata.golOspiti)
+        debug += "# Partita %s - %s | %s-%s\n"%(partita.casa,partita.ospiti,partita.andata.golCasa,partita.andata.golOspiti)
+        csv += "%s,%s,%s,%s\n"%(str(dataInt),partita.casa,partita.ospiti,partita.andata.golCasa-partita.andata.golOspiti)
 
 npart = len(giornate)
 for giornata in giornate:
     giorn = int(giornata.giornataRitorno)
-    print("### Giornata ###",giorn)
-    print(giornata.dataRitorno)
+    data = giornata.dataRitorno
+    dataInt = dataToInt(data)
+    debug += "### Giornata %s - Campionato %s - Serie %s - %s ###\n"%(giorn,giornata.anno,giornata.serie, data)
     for partita in giornata.partite:
-        print("# Partita %s - %s | %s-%s"%(partita.ospiti,partita.casa,partita.ritorno.golOspiti,partita.ritorno.golCasa))
-        csv += "%s,%s,%s,%s\n"%(giorn,partita.ospiti,partita.casa,partita.ritorno.golOspiti-partita.ritorno.golCasa)
+        debug += "# Partita %s - %s | %s-%s\n"%(partita.ospiti,partita.casa,partita.ritorno.golOspiti,partita.ritorno.golCasa)
+        csv += "%s,%s,%s,%s\n"%(str(dataInt),partita.ospiti,partita.casa,partita.ritorno.golOspiti-partita.ritorno.golCasa)
+
+debug += "\n"+str(squadre)+"\n"
 
 csvFile = open("data.csv",'w') 
 csvFile.write("%d,3\n"%(len(csv.split("\n"))))
 csvFile.write(csv)
 csvFile.close()
 
-#print(parser.giornate)
-#giornate = str(mfile).split('<th colspan="2">')
-#giorn = giornate[4].split("\tbody")[0]
-#parser = MyHTMLParser()
-#parser.feed(giorn)
-#giorn = parser.text
-#for i in range(10):
-#    giorn = giorn.replace("\\n","")
-#    giorn = giorn.replace("\\t","")
+debugFile = open("data.debug",'w') 
+debugFile.write(debug)
+debugFile.close()
 
-#print(giorn)
-
-#print(parser.text)
