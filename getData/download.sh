@@ -1,10 +1,16 @@
-
-
-
-for i in 2010 2011;
+#/bin/bash
+s="A"
+for i in $(seq 1929 2017);
     do
-    rm -f $i.html && wget http://www.gazzetta.it/speciali/risultati_classifiche/$i/calcio/seriea/calendario.shtml -O web/$i.html &
-    rm -f b_$i.html && wget http://www.gazzetta.it/speciali/risultati_classifiche/$i/calcio/serieb/calendario.shtml -O web/b_$i.html &
+    for s in A B;
+    do
+        j=$(($i+1))
+        file_="web/"$i"_"$s".html"
+        site="it.wikipedia.org/wiki/Serie_"$s"_"$i"-"$j
+        echo $file_
+        echo $site
+        rm -f $file_ && wget $site -O $file_ &
+    done
 done    
 
 
